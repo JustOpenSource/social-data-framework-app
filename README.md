@@ -1,4 +1,4 @@
-# social-data-framework-app Rebuild of fatalshootings to drop cruft
+# social-data-framework-app
 
 ## Development
 
